@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fx_ChatRoom_server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fx_ChatRoom_server_jar</output-path>
+    <root id="archive" name="fx_ChatRoom_server.jar">
+      <element id="module-output" name="fx_ChatRoom_server" />
+    </root>
+  </artifact>
+</component>
